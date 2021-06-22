@@ -1,4 +1,4 @@
-👋 Hello, my name is Jugurtha, I'm 25 years old, living in France.
+👋  Hello, my name is Jugurtha, I'm 25 years old, living in France.
 
 DevOps and JS dev.
 
