@@ -4,9 +4,7 @@ DevOps and JS dev.
 
 ---
 
-![Jugurtha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jugurthak&show_icons=true)
-
-- ⚡ Currently Working on [Prezentation](https://github.com/JugurthaK/prezentation)
+![Jugurtha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=jugurthak&theme=dark)
 
 - 🔨 Working as an apprentice at [Orange](https://github.com/Orange-OpenSource)
 
