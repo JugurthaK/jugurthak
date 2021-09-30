@@ -4,8 +4,6 @@ DevOps and JS dev.
 
 ---
 
-![Jugurtha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=jugurthak&theme=dark)
-
 - 🔨 Working as an apprentice at [Orange](https://github.com/Orange-OpenSource)
 
 - 👨‍💻 Student at `EPITA`
