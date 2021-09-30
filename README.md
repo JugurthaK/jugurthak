@@ -1,4 +1,4 @@
-#TLDR;
+# TLDR;
 - 🔨 Working as an apprentice at [Orange](https://github.com/Orange-OpenSource)
 
 - 👨‍💻 Student at `EPITA`
