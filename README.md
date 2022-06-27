@@ -12,4 +12,4 @@
 
 I'm currently finishing a CS degree at EPITA.
 
-During my freetime, I love cycling and coding *surprisingly*
+During my freetime, I love coding, *surprisingly*
