@@ -1,5 +1,5 @@
 # TLDR;
-- 🔨 Working as fullstack (vue, node) developer at [Meritis](https://github.com/meritisgroup)
+- 🔨 Working as a fullstack (vue, node) developer at [Meritis](https://github.com/meritisgroup)
   - Prev : Fullstack JS (nuxt, node) developer at [Orange](https://github.com/Orange-OpenSource)
 
 - 👨‍💻 `EPITA` Alumni
