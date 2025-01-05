@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 14 repositories
+                            Contributed to 13 repositories
                         </div>
                     </section>
                 </div>
@@ -71,14 +71,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="141.0360002574331" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="141.0360002574331" y="0" width="63.7054933581066" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="204.7414936155397" y="0" width="29.90986244519054" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="234.65135606073025" y="0" width="26.50402279162191" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="261.15537885235216" y="0" width="17.700730846119377" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="278.8561096984715" y="0" width="0.45363386380271026" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="279.30974356227426" y="0" width="0.3285949390415255" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="279.6383385013158" y="0" width="180.36166149868424" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="141.89949477115087" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="141.89949477115087" y="0" width="61.90542302559768" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="203.80491779674855" y="0" width="30.001037645622304" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="233.80595544237084" y="0" width="26.666293972244187" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="260.472249414615" y="0" width="17.80910377180162" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="278.28135318641665" y="0" width="0.4564112422870353" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="278.7377644287037" y="0" width="0.3306067652885821" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="279.06837119399233" y="0" width="180.93162880600772" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -194,7 +194,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.32
+                            Average per day at ~0.31
                         </div>
                     </section>
                 </div>
@@ -1155,10 +1155,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 7.285714285714286)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1333,7 +1333,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.33m out of 152m users</span>
+                                    <span class="gh">ranked 4.33m out of 151m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
@@ -1541,7 +1541,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 914k out of 152m users</span>
+                                    <span class="gh">ranked 914k out of 151m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">18</div>
                                     </div>
